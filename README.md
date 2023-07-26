@@ -21,7 +21,7 @@ Flixbox is a React web application that allows users to search for movies, view 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/flixbox.git
+git clone https://github.com/pasify/flixbox.git
 cd flixbox
 ```
 
