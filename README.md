@@ -1,7 +1,5 @@
 # Flixbox - Movie Search and Watched List React App
 
-![Flixbox Logo](link-to-logo.png) (if you have a logo for your app, include it here)
-
 Flixbox is a React web application that allows users to search for movies, view movie details, rate them, and create a watched list. With Flixbox, you can easily keep track of the movies you've watched and store them in your browser's local storage for easy access.
 
 ## Features
@@ -29,14 +27,14 @@ cd flixbox
 
 2. Install the required dependencies:
 
-   ```npm install
-
+   ```
+    npm install
    ```
 
 3. Start the development server:
 
-   ```npm start
-
+   ```
+    npm start
    ```
 
 # How to use
@@ -72,19 +70,22 @@ Fork the repository.
 
 1. Create a new branch for your feature:
 
-   ```git checkout -b feature-name.
+   ```
+    git checkout -b feature-name.
 
    ```
 
 2. Make your changes and commit them:
 
-   ```git commit -m 'Add some feature'.
+   ```
+    git commit -m 'Add some feature'.
 
    ```
 
 3. Push the changes to your fork:
 
-   ```git push origin feature-name.
+   ```
+    git push origin feature-name.
 
    ```
 
